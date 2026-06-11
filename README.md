@@ -75,7 +75,7 @@ sravanthi = {
 
 <!-- ✏️ Update GitHub links when you push these projects -->
 
-### 📄 [Smart Academic Document Request](https://github.com/YedlaSravanthi)
+### 📄 [Smart Academic Document Request](https://github.com/Ysravanthi15)
 > **QR Code · Web Technologies**
 
 A system that allows students to request academic documents from institutions **without repeated campus visits**, cutting down paperwork and wait times significantly.
@@ -89,7 +89,7 @@ A system that allows students to request academic documents from institutions **
 
 ---
 
-### 📊 [Employee Task Tracking Dashboard](https://github.com/YedlaSravanthi)
+### 📊 [Employee Task Tracking Dashboard](https://github.com/Ysravanthi15)
 > **Excel · SharePoint · Power BI**
 
 An interactive dashboard built on real employee data for **live task tracking and team collaboration**.
@@ -103,7 +103,7 @@ An interactive dashboard built on real employee data for **live task tracking an
 
 ---
 
-### 🐍 [Python Mini Projects Collection](https://github.com/YedlaSravanthi)
+### 🐍 [Python Mini Projects Collection](https://github.com/Ysravanthi15)
 > **Python**
 
 A collection of four beginner-to-intermediate Python projects demonstrating core programming skills:
@@ -125,9 +125,9 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 
 <!-- ✏️ Replace 'YedlaSravanthi' with your exact GitHub username in all 3 URLs below -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YedlaSravanthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ysravanthi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YedlaSravanthi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysravanthi15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
@@ -139,7 +139,7 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YedlaSravanthi&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ysravanthi15&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
 </div>
 
@@ -182,10 +182,11 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yedlasravanthiportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sravanthi-yedla-5470a1291)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayasravanthi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YedlaSravanthi)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-gfg-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ysravanthi15)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dayasra0yrp)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sravanthiyedla)
 [![Phone](https://img.shields.io/badge/Phone-+91--9440147227-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919440147227)
 
 </div>
@@ -195,7 +196,7 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 <div align="center">
 
 <!-- Profile view counter — replace YedlaSravanthi with your GitHub username -->
-![Profile Views](https://komarev.com/ghpvc/?username=YedlaSravanthi&color=6C63FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ysravanthi15&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
