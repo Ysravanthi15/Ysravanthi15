@@ -13,24 +13,23 @@
 
 ```python
 sravanthi = {
-    "name"        : "Sravanthi Yedla",
-    "title"       : "B.Tech CSE – Data Science Student",
-    "university"  : "Aditya College of Engineering and Technology, Andhra Pradesh",
-    "cgpa"        : 8.79,
-    "location"    : "Andhra Pradesh, India 🇮🇳",
+    "Name"        : "Sravanthi Yedla",
+    "Title"       : "B.Tech CSE – Data Science Student",
+    "College"     : "Aditya College of Engineering and Technology, Andhra Pradesh",
+    "CGPA"        : 8.79,
+    "Location"    : "Andhra Pradesh, India 🇮🇳",
     "email"       : "dayasravanthi@gmail.com",
-    "portfolio"   : "https://yedlasravanthiportfolio.vercel.app/",
+    "Portfolio"   : "https://yedlasravanthiportfolio.vercel.app/",
     "interests"   : ["Data Analysis", "Data Engineering", "Data Visualization", "Competitive Coding"],
     "current_focus": "Building enterprise-grade projects with Power Platform & cloud tools",
-    "fun_fact"    : "I ranked 87th on GeeksForGeeks 🏆 and love turning raw data into stories 📊"
+    "Achievements"    : "I ranked 87th on GeeksForGeeks 🏆 and love turning raw data into stories 📊"
 }
 ```
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 
 - 🎓 Pursuing **B.Tech in CSE – Data Science** (2023–2027)
 - 💼 Former Intern at **TechnicalHub Pvt Ltd** — worked with Power BI, SharePoint & Power Automate
-- 🌱 Currently learning **Apache NiFi, Snowflake & Advanced SQL**
 - 🏆 **87th Rank** on GeeksForGeeks | Hackathon Participant
 - 📫 Reach me at **dayasravanthi@gmail.com**
 - 🌐 Check out my **[Portfolio](https://yedlasravanthiportfolio.vercel.app/)**
@@ -76,17 +75,13 @@ sravanthi = {
 <!-- ✏️ Update GitHub links when you push these projects -->
 
 ### 📄 [Smart Academic Document Request](https://github.com/Ysravanthi15)
-> **QR Code · Web Technologies**
+> **QR Code,Power Automate,Power BI,Excel,Sharepoint**
 
 A system that allows students to request academic documents from institutions **without repeated campus visits**, cutting down paperwork and wait times significantly.
 
 - 🔑 QR code-based approval workflow
 - 📬 Students apply, track status, and receive collection dates — all digitally
 - 🎯 Reduces administrative friction end-to-end
-
-![QR Code](https://img.shields.io/badge/QR_Code-000000?style=flat-square&logo=qrcode&logoColor=white)
-![Web](https://img.shields.io/badge/Web_Technologies-E34F26?style=flat-square&logo=html5&logoColor=white)
-
 ---
 
 ### 📊 [Employee Task Tracking Dashboard](https://github.com/Ysravanthi15)
