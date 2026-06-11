@@ -13,16 +13,16 @@
 
 ```python
 sravanthi = {
-    "Name"        : "Sravanthi Yedla",
-    "Title"       : "B.Tech CSE – Data Science Student",
-    "College"     : "Aditya College of Engineering and Technology, Andhra Pradesh",
-    "CGPA"        : 8.79,
-    "Location"    : "Andhra Pradesh, India 🇮🇳",
-    "email"       : "dayasravanthi@gmail.com",
-    "Portfolio"   : "https://yedlasravanthiportfolio.vercel.app/",
-    "interests"   : ["Data Analysis", "Data Engineering", "Data Visualization", "Competitive Coding"],
+    "Name"         : "Sravanthi Yedla",
+    "Title"        : "B.Tech CSE – Data Science Student",
+    "College"      : "Aditya College of Engineering and Technology, Andhra Pradesh",
+    "CGPA"         : 8.79,
+    "Location"     : "Andhra Pradesh, India 🇮🇳",
+    "Email"        : "dayasravanthi@gmail.com",
+    "Portfolio"    : "https://yedlasravanthiportfolio.vercel.app/",
+    "Interests"    : ["Data Analysis","Data Visualization", "Competitive Coding","Web Development"],
     "current_focus": "Building enterprise-grade projects with Power Platform & cloud tools",
-    "Achievements"    : "I ranked 87th on GeeksForGeeks 🏆 and love turning raw data into stories 📊"
+    "Achievement"  : "I ranked 87th on GeeksForGeeks 🏆 and love turning raw data into stories 📊"
 }
 ```
 
@@ -30,6 +30,7 @@ sravanthi = {
 
 - 🎓 Pursuing **B.Tech in CSE – Data Science** (2023–2027)
 - 💼 Former Intern at **TechnicalHub Pvt Ltd** — worked with Power BI, SharePoint & Power Automate
+- 🌱 Currently learning **Spring Boot**
 - 🏆 **87th Rank** on GeeksForGeeks | Hackathon Participant
 - 📫 Reach me at **dayasravanthi@gmail.com**
 - 🌐 Check out my **[Portfolio](https://yedlasravanthiportfolio.vercel.app/)**
@@ -75,13 +76,18 @@ sravanthi = {
 <!-- ✏️ Update GitHub links when you push these projects -->
 
 ### 📄 [Smart Academic Document Request](https://github.com/Ysravanthi15)
-> **QR Code,Power Automate,Power BI,Excel,Sharepoint**
+> **QR Code ·PowerBI,Sharepoint,PowerAutomate,Excel**
 
 A system that allows students to request academic documents from institutions **without repeated campus visits**, cutting down paperwork and wait times significantly.
 
 - 🔑 QR code-based approval workflow
 - 📬 Students apply, track status, and receive collection dates — all digitally
 - 🎯 Reduces administrative friction end-to-end
+
+![QR Code](https://img.shields.io/badge/QR_Code-000000?style=flat-square&logo=qrcode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ---
 
 ### 📊 [Employee Task Tracking Dashboard](https://github.com/Ysravanthi15)
@@ -118,7 +124,6 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 
 <div align="center">
 
-<!-- ✏️ Replace 'YedlaSravanthi' with your exact GitHub username in all 3 URLs below -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ysravanthi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
@@ -128,7 +133,7 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YedlaSravanthi&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Ysravanthi15&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -156,7 +161,6 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 ## 📚 Currently Learning
 
 - ❄️ **Snowflake** — Advanced data warehousing & performance tuning
-- 🌊 **Apache NiFi** — Data pipeline engineering & ETL workflows
 - 📊 **Advanced Power BI** — DAX, custom visuals & enterprise reporting
 - ☁️ **AWS Cloud Services** — Cloud architecture & data services
 
@@ -167,7 +171,6 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 - 📊 Data Analysis & Visualization projects
 - 🔧 Power Platform (Power BI / Power Automate / Power Apps) solutions
 - 🐍 Python-based tools and automation scripts
-- 🌐 Open-source projects in Data Engineering
 - 🎓 Student/hackathon projects and research work
 
 ---
@@ -190,7 +193,6 @@ A collection of four beginner-to-intermediate Python projects demonstrating core
 
 <div align="center">
 
-<!-- Profile view counter — replace YedlaSravanthi with your GitHub username -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ysravanthi15&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
